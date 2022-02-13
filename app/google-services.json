@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393456153888",
+    "project_id": "train-your-memory-68c9c",
+    "storage_bucket": "train-your-memory-68c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393456153888:android:4793ded4a7b212bd079345",
+        "android_client_info": {
+          "package_name": "com.example.iq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393456153888-ki8ubvkee0nr3ep8bl2hbliqgddnpl0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrLDAZ3G0kYfiFhKWpagmRQSqOu06Fzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393456153888-ki8ubvkee0nr3ep8bl2hbliqgddnpl0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
